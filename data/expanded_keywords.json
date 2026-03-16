@@ -1,0 +1,2862 @@
+{
+  "disruption_query": [
+    {
+      "word": "yemen",
+      "display": "yemen",
+      "similarity": 0.8461,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "rebels",
+      "display": "rebels",
+      "similarity": 0.8053,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "militants",
+      "display": "militants",
+      "similarity": 0.8033,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "airstrikes",
+      "display": "airstrikes",
+      "similarity": 0.8018,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "militias",
+      "display": "militias",
+      "similarity": 0.7934,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "blockage",
+      "display": "blockage",
+      "similarity": 0.7816,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "targeting_russian",
+      "display": "targeting russian",
+      "similarity": 0.7725,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "iran_backed",
+      "display": "iran backed",
+      "similarity": 0.7713,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "yemeni",
+      "display": "yemeni",
+      "similarity": 0.7672,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "bombing",
+      "display": "bombing",
+      "similarity": 0.7632,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "drone_attacks",
+      "display": "drone attacks",
+      "similarity": 0.7611,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "shiite",
+      "display": "shiite",
+      "similarity": 0.7584,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "intercepted",
+      "display": "intercepted",
+      "similarity": 0.7564,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "ukrainian_drone",
+      "display": "ukrainian drone",
+      "similarity": 0.7521,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "perpetrated",
+      "display": "perpetrated",
+      "similarity": 0.7487,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "fossil_generation",
+      "display": "fossil generation",
+      "similarity": 0.7474,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "waterway",
+      "display": "waterway",
+      "similarity": 0.747,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "houthis",
+      "display": "houthis",
+      "similarity": 0.7457,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "bunker",
+      "display": "bunker",
+      "similarity": 0.7369,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "erupted",
+      "display": "erupted",
+      "similarity": 0.7362,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "beirut",
+      "display": "beirut",
+      "similarity": 0.7362,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "attacks_red",
+      "display": "attacks red",
+      "similarity": 0.7344,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "chokepoint",
+      "display": "chokepoint",
+      "similarity": 0.7318,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "fujairah",
+      "display": "fujairah",
+      "similarity": 0.7309,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "arabian",
+      "display": "arabian",
+      "similarity": 0.7306,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "renewables_displace",
+      "display": "renewables displace",
+      "similarity": 0.7289,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "hormuz",
+      "display": "hormuz",
+      "similarity": 0.7284,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "hostilities",
+      "display": "hostilities",
+      "similarity": 0.7245,
+      "similar_to": "Houthi"
+    },
+    {
+      "word": "iran_seized",
+      "display": "iran seized",
+      "similarity": 0.7161,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "heightened_tensions",
+      "display": "heightened tensions",
+      "similarity": 0.7157,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "rerouted",
+      "display": "rerouted",
+      "similarity": 0.7102,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "reroute",
+      "display": "reroute",
+      "similarity": 0.7045,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "hamaca",
+      "display": "hamaca",
+      "similarity": 0.7008,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "rolling_blackouts",
+      "display": "rolling blackouts",
+      "similarity": 0.6973,
+      "similar_to": "Suez Canal"
+    },
+    {
+      "word": "kazakh",
+      "display": "kazakh",
+      "similarity": 0.6966,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "tanura",
+      "display": "tanura",
+      "similarity": 0.6951,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "cuts_saudi",
+      "display": "cuts saudi",
+      "similarity": 0.6836,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "evacuated",
+      "display": "evacuated",
+      "similarity": 0.6836,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "houthi_attacks",
+      "display": "houthi attacks",
+      "similarity": 0.6831,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "seaborne",
+      "display": "seaborne",
+      "similarity": 0.6824,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "arabia",
+      "display": "arabia",
+      "similarity": 0.6794,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "through_strait",
+      "display": "through strait",
+      "similarity": 0.6788,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "evacuation",
+      "display": "evacuation",
+      "similarity": 0.6732,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "risk_premium",
+      "display": "risk premium",
+      "similarity": 0.673,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "iran_war",
+      "display": "iran war",
+      "similarity": 0.6715,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "selangor",
+      "display": "selangor",
+      "similarity": 0.6691,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "incidental",
+      "display": "incidental",
+      "similarity": 0.6621,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "russia_saudi",
+      "display": "russia saudi",
+      "similarity": 0.6617,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "rerouting",
+      "display": "rerouting",
+      "similarity": 0.6615,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "jiangxi",
+      "display": "jiangxi",
+      "similarity": 0.6603,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "war_between",
+      "display": "war between",
+      "similarity": 0.6592,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "nationalized",
+      "display": "nationalized",
+      "similarity": 0.6574,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "non_essential",
+      "display": "non essential",
+      "similarity": 0.6568,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "guinea",
+      "display": "guinea",
+      "similarity": 0.6557,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "gazprom",
+      "display": "gazprom",
+      "similarity": 0.6542,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "petropiar",
+      "display": "petropiar",
+      "similarity": 0.6539,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "ningbo",
+      "display": "ningbo",
+      "similarity": 0.6537,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "confrontation",
+      "display": "confrontation",
+      "similarity": 0.653,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "algeria",
+      "display": "algeria",
+      "similarity": 0.653,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "offshore_exploration",
+      "display": "offshore exploration",
+      "similarity": 0.6524,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "venezuelan_state",
+      "display": "venezuelan state",
+      "similarity": 0.6522,
+      "similar_to": "force majeure"
+    },
+    {
+      "word": "iran_venezuela",
+      "display": "iran venezuela",
+      "similarity": 0.6514,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "kharg_island",
+      "display": "kharg island",
+      "similarity": 0.6502,
+      "similar_to": "Strait of Hormuz"
+    }
+  ],
+  "broad_query": [
+    {
+      "word": "spirit_aerosystems",
+      "display": "spirit aerosystems",
+      "similarity": 0.7783,
+      "similar_to": "SPR"
+    },
+    {
+      "word": "intermediate_wti",
+      "display": "intermediate wti",
+      "similarity": 0.7752,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "waterway",
+      "display": "waterway",
+      "similarity": 0.747,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "administration_eia",
+      "display": "administration eia",
+      "similarity": 0.7469,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "barrel_while",
+      "display": "barrel while",
+      "similarity": 0.7412,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "brent_crude",
+      "display": "brent crude",
+      "similarity": 0.7358,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "nymex_wti",
+      "display": "nymex wti",
+      "similarity": 0.7342,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "energy_information",
+      "display": "energy information",
+      "similarity": 0.7331,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "chokepoint",
+      "display": "chokepoint",
+      "similarity": 0.7318,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "intermediate_crude",
+      "display": "intermediate crude",
+      "similarity": 0.7318,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "opec_members",
+      "display": "opec members",
+      "similarity": 0.7308,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "hormuz",
+      "display": "hormuz",
+      "similarity": 0.7284,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "heightened_tensions",
+      "display": "heightened tensions",
+      "similarity": 0.7157,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "rerouted",
+      "display": "rerouted",
+      "similarity": 0.7102,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "opec_producers",
+      "display": "opec producers",
+      "similarity": 0.7095,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "crude",
+      "display": "crude",
+      "similarity": 0.7087,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "oil_prices",
+      "display": "oil prices",
+      "similarity": 0.7084,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "crude_inventories",
+      "display": "crude inventories",
+      "similarity": 0.7084,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "oil_output",
+      "display": "oil output",
+      "similarity": 0.707,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "brent_wti",
+      "display": "brent wti",
+      "similarity": 0.7036,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "wti_crude",
+      "display": "wti crude",
+      "similarity": 0.7004,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "cuts_saudi",
+      "display": "cuts saudi",
+      "similarity": 0.7002,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "non_opec",
+      "display": "non opec",
+      "similarity": 0.6997,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "steo",
+      "display": "steo",
+      "similarity": 0.6993,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "west_texas",
+      "display": "west texas",
+      "similarity": 0.6977,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "light_crude",
+      "display": "light crude",
+      "similarity": 0.697,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "production_cuts",
+      "display": "production cuts",
+      "similarity": 0.6922,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "black_gold",
+      "display": "black gold",
+      "similarity": 0.6838,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "houthi_attacks",
+      "display": "houthi attacks",
+      "similarity": 0.6831,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "dip_opec",
+      "display": "dip opec",
+      "similarity": 0.6818,
+      "similar_to": "quota"
+    },
+    {
+      "word": "tanura",
+      "display": "tanura",
+      "similarity": 0.6813,
+      "similar_to": "refinery"
+    },
+    {
+      "word": "arabia",
+      "display": "arabia",
+      "similarity": 0.6794,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "incb",
+      "display": "incb",
+      "similarity": 0.6794,
+      "similar_to": "quota"
+    },
+    {
+      "word": "through_strait",
+      "display": "through strait",
+      "similarity": 0.6788,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "protests_drag",
+      "display": "protests drag",
+      "similarity": 0.6787,
+      "similar_to": "WTI"
+    },
+    {
+      "word": "failed_reach",
+      "display": "failed reach",
+      "similarity": 0.6784,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "opec_allies",
+      "display": "opec allies",
+      "similarity": 0.6778,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "wti_grade",
+      "display": "wti grade",
+      "similarity": 0.677,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "cartel",
+      "display": "cartel",
+      "similarity": 0.6768,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "exporting_countries",
+      "display": "exporting countries",
+      "similarity": 0.6748,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "anti_jinping",
+      "display": "anti jinping",
+      "similarity": 0.6745,
+      "similar_to": "WTI"
+    },
+    {
+      "word": "output_cuts",
+      "display": "output cuts",
+      "similarity": 0.6736,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "risk_premium",
+      "display": "risk premium",
+      "similarity": 0.673,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "iran_war",
+      "display": "iran war",
+      "similarity": 0.6715,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "pascagoula",
+      "display": "pascagoula",
+      "similarity": 0.6705,
+      "similar_to": "refinery"
+    },
+    {
+      "word": "agreement_saudi",
+      "display": "agreement saudi",
+      "similarity": 0.6698,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "below_barrel",
+      "display": "below barrel",
+      "similarity": 0.6681,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "organization_petroleum",
+      "display": "organization petroleum",
+      "similarity": 0.6672,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "chevron_segundo",
+      "display": "chevron segundo",
+      "similarity": 0.666,
+      "similar_to": "refinery"
+    },
+    {
+      "word": "unseen",
+      "display": "unseen",
+      "similarity": 0.6658,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "yemen",
+      "display": "yemen",
+      "similarity": 0.6656,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "billion_cubic",
+      "display": "billion cubic",
+      "similarity": 0.6647,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "russia_saudi",
+      "display": "russia saudi",
+      "similarity": 0.6617,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "rerouting",
+      "display": "rerouting",
+      "similarity": 0.6615,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "mmbtu",
+      "display": "mmbtu",
+      "similarity": 0.6615,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "war_between",
+      "display": "war between",
+      "similarity": 0.6592,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "opec_output",
+      "display": "opec output",
+      "similarity": 0.6581,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "rsquo_weekly",
+      "display": "rsquo weekly",
+      "similarity": 0.6557,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "above_barrel",
+      "display": "above barrel",
+      "similarity": 0.6557,
+      "similar_to": "barrel"
+    },
+    {
+      "word": "million_bpd",
+      "display": "million bpd",
+      "similarity": 0.6556,
+      "similar_to": "OPEC"
+    },
+    {
+      "word": "houthis",
+      "display": "houthis",
+      "similarity": 0.6556,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "while_distillate",
+      "display": "while distillate",
+      "similarity": 0.6553,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "uso_tracks",
+      "display": "uso tracks",
+      "similarity": 0.6545,
+      "similar_to": "WTI"
+    },
+    {
+      "word": "confrontation",
+      "display": "confrontation",
+      "similarity": 0.653,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "million_barrels",
+      "display": "million barrels",
+      "similarity": 0.6518,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "gasoline_supplies",
+      "display": "gasoline supplies",
+      "similarity": 0.6516,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "bunker",
+      "display": "bunker",
+      "similarity": 0.6515,
+      "similar_to": "Red Sea"
+    },
+    {
+      "word": "iran_venezuela",
+      "display": "iran venezuela",
+      "similarity": 0.6514,
+      "similar_to": "supply disruption"
+    },
+    {
+      "word": "crude_stockpiles",
+      "display": "crude stockpiles",
+      "similarity": 0.6505,
+      "similar_to": "EIA"
+    },
+    {
+      "word": "kharg_island",
+      "display": "kharg island",
+      "similarity": 0.6502,
+      "similar_to": "Strait of Hormuz"
+    },
+    {
+      "word": "crude_prices",
+      "display": "crude prices",
+      "similarity": 0.6501,
+      "similar_to": "barrel"
+    }
+  ],
+  "macro_query": [],
+  "topic_opec_production": [
+    {
+      "word": "opec_producers",
+      "display": "opec producers",
+      "similarity": 0.7547,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.5706,
+      "mean_seed_pmi": 4.9819
+    },
+    {
+      "word": "heightened_tensions",
+      "display": "heightened tensions",
+      "similarity": 0.7546,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.5446,
+      "mean_seed_pmi": 3.3158
+    },
+    {
+      "word": "gunvor",
+      "display": "gunvor",
+      "similarity": 0.7395,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.532,
+      "mean_seed_pmi": 3.8252
+    },
+    {
+      "word": "prices_rebounded",
+      "display": "prices rebounded",
+      "similarity": 0.7362,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.5087,
+      "mean_seed_pmi": 5.0927
+    },
+    {
+      "word": "opec_members",
+      "display": "opec members",
+      "similarity": 0.7308,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5316,
+      "mean_seed_pmi": 3.1148
+    },
+    {
+      "word": "iranian_nuclear",
+      "display": "iranian nuclear",
+      "similarity": 0.7242,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.5009,
+      "mean_seed_pmi": 5.2708
+    },
+    {
+      "word": "iran_seized",
+      "display": "iran seized",
+      "similarity": 0.7235,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.5194,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "oil_output",
+      "display": "oil output",
+      "similarity": 0.707,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5159,
+      "mean_seed_pmi": 2.6697
+    },
+    {
+      "word": "cuts_saudi",
+      "display": "cuts saudi",
+      "similarity": 0.7002,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5311,
+      "mean_seed_pmi": 5.557
+    },
+    {
+      "word": "non_opec",
+      "display": "non opec",
+      "similarity": 0.6997,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5333,
+      "mean_seed_pmi": 3.9118
+    },
+    {
+      "word": "libyan",
+      "display": "libyan",
+      "similarity": 0.697,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.5522,
+      "mean_seed_pmi": 4.863
+    },
+    {
+      "word": "ironic",
+      "display": "ironic",
+      "similarity": 0.697,
+      "similar_to": "output cut",
+      "mean_seed_cosine": 0.5046,
+      "mean_seed_pmi": 4.81
+    },
+    {
+      "word": "opec_allies",
+      "display": "opec allies",
+      "similarity": 0.6948,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.5573,
+      "mean_seed_pmi": 3.5962
+    },
+    {
+      "word": "opec_output",
+      "display": "opec output",
+      "similarity": 0.693,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.5439,
+      "mean_seed_pmi": 3.3954
+    },
+    {
+      "word": "oversupply_concerns",
+      "display": "oversupply concerns",
+      "similarity": 0.6927,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.5309,
+      "mean_seed_pmi": 2.2403
+    },
+    {
+      "word": "production_cuts",
+      "display": "production cuts",
+      "similarity": 0.6922,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5145,
+      "mean_seed_pmi": 3.5074
+    },
+    {
+      "word": "roar",
+      "display": "roar",
+      "similarity": 0.6869,
+      "similar_to": "opec decision",
+      "mean_seed_cosine": 0.515,
+      "mean_seed_pmi": 3.3481
+    },
+    {
+      "word": "dip_opec",
+      "display": "dip opec",
+      "similarity": 0.6818,
+      "similar_to": "quota",
+      "mean_seed_cosine": 0.5355,
+      "mean_seed_pmi": 4.5968
+    },
+    {
+      "word": "failed_reach",
+      "display": "failed reach",
+      "similarity": 0.6784,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5039,
+      "mean_seed_pmi": 4.5091
+    },
+    {
+      "word": "cartel",
+      "display": "cartel",
+      "similarity": 0.6768,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5439,
+      "mean_seed_pmi": 4.4079
+    },
+    {
+      "word": "exporting_countries",
+      "display": "exporting countries",
+      "similarity": 0.6748,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5103,
+      "mean_seed_pmi": 3.1938
+    },
+    {
+      "word": "output_cuts",
+      "display": "output cuts",
+      "similarity": 0.6736,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5215,
+      "mean_seed_pmi": 3.0653
+    },
+    {
+      "word": "organization_petroleum",
+      "display": "organization petroleum",
+      "similarity": 0.6672,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5005,
+      "mean_seed_pmi": 3.1938
+    },
+    {
+      "word": "million_bpd",
+      "display": "million bpd",
+      "similarity": 0.6556,
+      "similar_to": "opec",
+      "mean_seed_cosine": 0.5196,
+      "mean_seed_pmi": 3.4909
+    },
+    {
+      "word": "bin_salman",
+      "display": "bin salman",
+      "similarity": 0.6518,
+      "similar_to": "saudi arabia",
+      "mean_seed_cosine": 0.5331,
+      "mean_seed_pmi": 4.278
+    }
+  ],
+  "topic_us_production": [
+    {
+      "word": "basins",
+      "display": "basins",
+      "similarity": 0.7129,
+      "similar_to": "permian",
+      "mean_seed_cosine": 0.512,
+      "mean_seed_pmi": 4.9615
+    },
+    {
+      "word": "haynesville",
+      "display": "haynesville",
+      "similarity": 0.7101,
+      "similar_to": "marcellus",
+      "mean_seed_cosine": 0.5265,
+      "mean_seed_pmi": 5.2931
+    },
+    {
+      "word": "equivalent_day",
+      "display": "equivalent day",
+      "similarity": 0.7082,
+      "similar_to": "bakken",
+      "mean_seed_cosine": 0.5047,
+      "mean_seed_pmi": 4.5876
+    },
+    {
+      "word": "recoverable",
+      "display": "recoverable",
+      "similarity": 0.7054,
+      "similar_to": "bakken",
+      "mean_seed_cosine": 0.5257,
+      "mean_seed_pmi": 3.4807
+    },
+    {
+      "word": "west_africa",
+      "display": "west africa",
+      "similarity": 0.7029,
+      "similar_to": "marcellus",
+      "mean_seed_cosine": 0.5106,
+      "mean_seed_pmi": 3.7064
+    },
+    {
+      "word": "korikori",
+      "display": "korikori",
+      "similarity": 0.6886,
+      "similar_to": "bakken",
+      "mean_seed_cosine": 0.5156,
+      "mean_seed_pmi": 8.7974
+    },
+    {
+      "word": "takeaway_capacity",
+      "display": "takeaway capacity",
+      "similarity": 0.6841,
+      "similar_to": "bakken",
+      "mean_seed_cosine": 0.5295,
+      "mean_seed_pmi": 6.5266
+    },
+    {
+      "word": "prolific",
+      "display": "prolific",
+      "similarity": 0.6806,
+      "similar_to": "marcellus",
+      "mean_seed_cosine": 0.5281,
+      "mean_seed_pmi": 2.203
+    }
+  ],
+  "topic_oil_inventories": [
+    {
+      "word": "inventories_came",
+      "display": "inventories came",
+      "similarity": 0.971,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5672,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "barrels_consensus",
+      "display": "barrels consensus",
+      "similarity": 0.9444,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5759,
+      "mean_seed_pmi": 8.4045
+    },
+    {
+      "word": "draw_barrels",
+      "display": "draw barrels",
+      "similarity": 0.9153,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5446,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "came_draw",
+      "display": "came draw",
+      "similarity": 0.8802,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5345,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "barrels_momo",
+      "display": "barrels momo",
+      "similarity": 0.8728,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5134,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "crowd_buying",
+      "display": "crowd buying",
+      "similarity": 0.8595,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5067,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "consensus_draw",
+      "display": "consensus draw",
+      "similarity": 0.8563,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5309,
+      "mean_seed_pmi": 8.4977
+    },
+    {
+      "word": "oil_inventories",
+      "display": "oil inventories",
+      "similarity": 0.8175,
+      "similar_to": "api crude",
+      "mean_seed_cosine": 0.5634,
+      "mean_seed_pmi": 4.3421
+    }
+  ],
+  "topic_oil_demand": [],
+  "topic_financial_factors": [
+    {
+      "word": "cut_rates",
+      "display": "cut rates",
+      "similarity": 0.7773,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5193,
+      "mean_seed_pmi": 2.8819
+    },
+    {
+      "word": "dovish_stance",
+      "display": "dovish stance",
+      "similarity": 0.7696,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5216,
+      "mean_seed_pmi": 3.3296
+    },
+    {
+      "word": "fed_rate",
+      "display": "fed rate",
+      "similarity": 0.7684,
+      "similar_to": "rate cut",
+      "mean_seed_cosine": 0.5045,
+      "mean_seed_pmi": 2.7253
+    },
+    {
+      "word": "reverting",
+      "display": "reverting",
+      "similarity": 0.7684,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.526,
+      "mean_seed_pmi": 3.1733
+    },
+    {
+      "word": "cutting_rates",
+      "display": "cutting rates",
+      "similarity": 0.7644,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5119,
+      "mean_seed_pmi": 3.0084
+    },
+    {
+      "word": "indices_opened",
+      "display": "indices opened",
+      "similarity": 0.7611,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.5226,
+      "mean_seed_pmi": 3.6272
+    },
+    {
+      "word": "chairman_powell",
+      "display": "chairman powell",
+      "similarity": 0.7544,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.523,
+      "mean_seed_pmi": 3.2428
+    },
+    {
+      "word": "rates_unchanged",
+      "display": "rates unchanged",
+      "similarity": 0.7524,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5045,
+      "mean_seed_pmi": 2.772
+    },
+    {
+      "word": "dovish",
+      "display": "dovish",
+      "similarity": 0.744,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5028,
+      "mean_seed_pmi": 2.89
+    },
+    {
+      "word": "fed_pause",
+      "display": "fed pause",
+      "similarity": 0.7424,
+      "similar_to": "rate hike",
+      "mean_seed_cosine": 0.548,
+      "mean_seed_pmi": 2.9391
+    },
+    {
+      "word": "rate_hikes",
+      "display": "rate hikes",
+      "similarity": 0.7419,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5114,
+      "mean_seed_pmi": 2.6945
+    },
+    {
+      "word": "start_tapering",
+      "display": "start tapering",
+      "similarity": 0.7347,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5152,
+      "mean_seed_pmi": 3.0104
+    },
+    {
+      "word": "accommodating",
+      "display": "accommodating",
+      "similarity": 0.7258,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.5253,
+      "mean_seed_pmi": 3.7792
+    },
+    {
+      "word": "raise_interest",
+      "display": "raise interest",
+      "similarity": 0.7245,
+      "similar_to": "fed",
+      "mean_seed_cosine": 0.5023,
+      "mean_seed_pmi": 2.7541
+    },
+    {
+      "word": "steepening",
+      "display": "steepening",
+      "similarity": 0.7225,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.514,
+      "mean_seed_pmi": 3.1502
+    },
+    {
+      "word": "firmness",
+      "display": "firmness",
+      "similarity": 0.7195,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.5171,
+      "mean_seed_pmi": 3.5209
+    },
+    {
+      "word": "nagging",
+      "display": "nagging",
+      "similarity": 0.7157,
+      "similar_to": "backwardation",
+      "mean_seed_cosine": 0.5339,
+      "mean_seed_pmi": 3.35
+    },
+    {
+      "word": "odds_basis",
+      "display": "odds basis",
+      "similarity": 0.7132,
+      "similar_to": "rate cut",
+      "mean_seed_cosine": 0.5308,
+      "mean_seed_pmi": 3.3999
+    },
+    {
+      "word": "chance_rate",
+      "display": "chance rate",
+      "similarity": 0.699,
+      "similar_to": "rate cut",
+      "mean_seed_cosine": 0.5272,
+      "mean_seed_pmi": 3.0617
+    },
+    {
+      "word": "rate_cuts",
+      "display": "rate cuts",
+      "similarity": 0.6982,
+      "similar_to": "rate cut",
+      "mean_seed_cosine": 0.5004,
+      "mean_seed_pmi": 2.6993
+    },
+    {
+      "word": "point_hike",
+      "display": "point hike",
+      "similarity": 0.6974,
+      "similar_to": "rate hike",
+      "mean_seed_cosine": 0.514,
+      "mean_seed_pmi": 2.7935
+    },
+    {
+      "word": "policy_stance",
+      "display": "policy stance",
+      "similarity": 0.6943,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.523,
+      "mean_seed_pmi": 2.6304
+    },
+    {
+      "word": "potentially_influencing",
+      "display": "potentially influencing",
+      "similarity": 0.6843,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5022,
+      "mean_seed_pmi": 3.0655
+    },
+    {
+      "word": "chances_rate",
+      "display": "chances rate",
+      "similarity": 0.6803,
+      "similar_to": "rate cut",
+      "mean_seed_cosine": 0.5058,
+      "mean_seed_pmi": 3.4198
+    },
+    {
+      "word": "telegraphing",
+      "display": "telegraphing",
+      "similarity": 0.6769,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5198,
+      "mean_seed_pmi": 2.9827
+    },
+    {
+      "word": "cpi_ppi",
+      "display": "cpi ppi",
+      "similarity": 0.6762,
+      "similar_to": "inflation",
+      "mean_seed_cosine": 0.5041,
+      "mean_seed_pmi": 3.2839
+    },
+    {
+      "word": "hike_means",
+      "display": "hike means",
+      "similarity": 0.6749,
+      "similar_to": "interest rate",
+      "mean_seed_cosine": 0.5018,
+      "mean_seed_pmi": 3.8711
+    },
+    {
+      "word": "rates_steady",
+      "display": "rates steady",
+      "similarity": 0.6737,
+      "similar_to": "rate hike",
+      "mean_seed_cosine": 0.5408,
+      "mean_seed_pmi": 3.2864
+    },
+    {
+      "word": "meeting_minutes",
+      "display": "meeting minutes",
+      "similarity": 0.6706,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5088,
+      "mean_seed_pmi": 3.4415
+    },
+    {
+      "word": "dovish_pivot",
+      "display": "dovish pivot",
+      "similarity": 0.6674,
+      "similar_to": "rate hike",
+      "mean_seed_cosine": 0.5033,
+      "mean_seed_pmi": 3.4101
+    },
+    {
+      "word": "disinflationary",
+      "display": "disinflationary",
+      "similarity": 0.6661,
+      "similar_to": "inflation",
+      "mean_seed_cosine": 0.5025,
+      "mean_seed_pmi": 3.6784
+    },
+    {
+      "word": "hawkish_stance",
+      "display": "hawkish stance",
+      "similarity": 0.6654,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5141,
+      "mean_seed_pmi": 3.213
+    },
+    {
+      "word": "reassurance",
+      "display": "reassurance",
+      "similarity": 0.6636,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5261,
+      "mean_seed_pmi": 2.6885
+    },
+    {
+      "word": "inflation_transitory",
+      "display": "inflation transitory",
+      "similarity": 0.6609,
+      "similar_to": "monetary policy",
+      "mean_seed_cosine": 0.5157,
+      "mean_seed_pmi": 2.7076
+    },
+    {
+      "word": "traders_brace",
+      "display": "traders brace",
+      "similarity": 0.6592,
+      "similar_to": "rate hike",
+      "mean_seed_cosine": 0.5161,
+      "mean_seed_pmi": 3.1072
+    },
+    {
+      "word": "weakening_labor",
+      "display": "weakening labor",
+      "similarity": 0.6532,
+      "similar_to": "inflation",
+      "mean_seed_cosine": 0.5257,
+      "mean_seed_pmi": 3.3199
+    },
+    {
+      "word": "letup",
+      "display": "letup",
+      "similarity": 0.6529,
+      "similar_to": "inflation",
+      "mean_seed_cosine": 0.509,
+      "mean_seed_pmi": 2.9462
+    }
+  ],
+  "topic_extreme_weather": [
+    {
+      "word": "making_landfall",
+      "display": "making landfall",
+      "similarity": 0.7868,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.5498,
+      "mean_seed_pmi": 8.3734
+    },
+    {
+      "word": "debby",
+      "display": "debby",
+      "similarity": 0.7826,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.5283,
+      "mean_seed_pmi": 8.6975
+    },
+    {
+      "word": "rafael",
+      "display": "rafael",
+      "similarity": 0.7626,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.552,
+      "mean_seed_pmi": 7.7974
+    },
+    {
+      "word": "louisiana_coast",
+      "display": "louisiana coast",
+      "similarity": 0.7372,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.5371,
+      "mean_seed_pmi": 7.7974
+    },
+    {
+      "word": "reroute",
+      "display": "reroute",
+      "similarity": 0.7372,
+      "similar_to": "severe weather",
+      "mean_seed_cosine": 0.557,
+      "mean_seed_pmi": 7.4273
+    },
+    {
+      "word": "flight_cancellations",
+      "display": "flight cancellations",
+      "similarity": 0.7321,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5569,
+      "mean_seed_pmi": 5.9682
+    },
+    {
+      "word": "rolling_blackouts",
+      "display": "rolling blackouts",
+      "similarity": 0.7214,
+      "similar_to": "severe weather",
+      "mean_seed_cosine": 0.5993,
+      "mean_seed_pmi": 6.8661
+    },
+    {
+      "word": "make_landfall",
+      "display": "make landfall",
+      "similarity": 0.7199,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5448,
+      "mean_seed_pmi": 6.6663
+    },
+    {
+      "word": "hurricane_beryl",
+      "display": "hurricane beryl",
+      "similarity": 0.7188,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.527,
+      "mean_seed_pmi": 8.3641
+    },
+    {
+      "word": "ningbo",
+      "display": "ningbo",
+      "similarity": 0.7186,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5492,
+      "mean_seed_pmi": 9.4977
+    },
+    {
+      "word": "carolinas",
+      "display": "carolinas",
+      "similarity": 0.7184,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.5595,
+      "mean_seed_pmi": 7.6975
+    },
+    {
+      "word": "beryl",
+      "display": "beryl",
+      "similarity": 0.7175,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5609,
+      "mean_seed_pmi": 8.7974
+    },
+    {
+      "word": "season_begins",
+      "display": "season begins",
+      "similarity": 0.7171,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5752,
+      "mean_seed_pmi": 7.1125
+    },
+    {
+      "word": "haunting",
+      "display": "haunting",
+      "similarity": 0.7152,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5545,
+      "mean_seed_pmi": 8.2346
+    },
+    {
+      "word": "bombing",
+      "display": "bombing",
+      "similarity": 0.7103,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5848,
+      "mean_seed_pmi": 6.7974
+    },
+    {
+      "word": "baltic",
+      "display": "baltic",
+      "similarity": 0.7046,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5326,
+      "mean_seed_pmi": 7.6497
+    },
+    {
+      "word": "helene",
+      "display": "helene",
+      "similarity": 0.6978,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.547,
+      "mean_seed_pmi": 8.0308
+    },
+    {
+      "word": "nonessential",
+      "display": "nonessential",
+      "similarity": 0.6976,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5732,
+      "mean_seed_pmi": 5.9127
+    },
+    {
+      "word": "typhoons",
+      "display": "typhoons",
+      "similarity": 0.6966,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5174,
+      "mean_seed_pmi": 8.9127
+    },
+    {
+      "word": "roeloffs",
+      "display": "roeloffs",
+      "similarity": 0.6949,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5445,
+      "mean_seed_pmi": 10.4977
+    },
+    {
+      "word": "lockdown_measures",
+      "display": "lockdown measures",
+      "similarity": 0.6904,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5272,
+      "mean_seed_pmi": 6.7752
+    },
+    {
+      "word": "locating",
+      "display": "locating",
+      "similarity": 0.6852,
+      "similar_to": "winter storm",
+      "mean_seed_cosine": 0.5337,
+      "mean_seed_pmi": 8.6497
+    },
+    {
+      "word": "evacuated",
+      "display": "evacuated",
+      "similarity": 0.6836,
+      "similar_to": "force majeure",
+      "mean_seed_cosine": 0.5132,
+      "mean_seed_pmi": 6.2825
+    },
+    {
+      "word": "iran_backed",
+      "display": "iran backed",
+      "similarity": 0.6802,
+      "similar_to": "typhoon",
+      "mean_seed_cosine": 0.5003,
+      "mean_seed_pmi": 6.6497
+    },
+    {
+      "word": "evacuation",
+      "display": "evacuation",
+      "similarity": 0.6732,
+      "similar_to": "force majeure",
+      "mean_seed_cosine": 0.5198,
+      "mean_seed_pmi": 6.3892
+    },
+    {
+      "word": "francine",
+      "display": "francine",
+      "similarity": 0.6709,
+      "similar_to": "hurricane",
+      "mean_seed_cosine": 0.5719,
+      "mean_seed_pmi": 8.2974
+    },
+    {
+      "word": "selangor",
+      "display": "selangor",
+      "similarity": 0.6691,
+      "similar_to": "force majeure",
+      "mean_seed_cosine": 0.5281,
+      "mean_seed_pmi": 9.2346
+    },
+    {
+      "word": "tropical",
+      "display": "tropical",
+      "similarity": 0.6626,
+      "similar_to": "tropical storm",
+      "mean_seed_cosine": 0.5006,
+      "mean_seed_pmi": 7.2884
+    },
+    {
+      "word": "non_essential",
+      "display": "non essential",
+      "similarity": 0.6568,
+      "similar_to": "force majeure",
+      "mean_seed_cosine": 0.5426,
+      "mean_seed_pmi": 6.1902
+    }
+  ],
+  "topic_pandemics": [
+    {
+      "word": "specifying",
+      "display": "specifying",
+      "similarity": 0.7277,
+      "similar_to": "quarantine",
+      "mean_seed_cosine": 0.5322,
+      "mean_seed_pmi": 3.3518
+    },
+    {
+      "word": "lockdown_measures",
+      "display": "lockdown measures",
+      "similarity": 0.7079,
+      "similar_to": "lockdown",
+      "mean_seed_cosine": 0.5331,
+      "mean_seed_pmi": 3.6518
+    },
+    {
+      "word": "related_lockdowns",
+      "display": "related lockdowns",
+      "similarity": 0.6759,
+      "similar_to": "lockdown",
+      "mean_seed_cosine": 0.5197,
+      "mean_seed_pmi": 3.6677
+    },
+    {
+      "word": "outbreaks",
+      "display": "outbreaks",
+      "similarity": 0.6635,
+      "similar_to": "quarantine",
+      "mean_seed_cosine": 0.5438,
+      "mean_seed_pmi": 4.1986
+    },
+    {
+      "word": "boosters",
+      "display": "boosters",
+      "similarity": 0.6618,
+      "similar_to": "epidemic",
+      "mean_seed_cosine": 0.5132,
+      "mean_seed_pmi": 3.8359
+    },
+    {
+      "word": "panicked",
+      "display": "panicked",
+      "similarity": 0.661,
+      "similar_to": "lockdown",
+      "mean_seed_cosine": 0.533,
+      "mean_seed_pmi": 3.4496
+    }
+  ],
+  "topic_geopolitical_conflicts": [
+    {
+      "word": "beirut",
+      "display": "beirut",
+      "similarity": 0.8767,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.612,
+      "mean_seed_pmi": 5.264
+    },
+    {
+      "word": "yemen",
+      "display": "yemen",
+      "similarity": 0.8461,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.586,
+      "mean_seed_pmi": 3.969
+    },
+    {
+      "word": "soleimani",
+      "display": "soleimani",
+      "similarity": 0.8456,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5607,
+      "mean_seed_pmi": 5.6854
+    },
+    {
+      "word": "erbil",
+      "display": "erbil",
+      "similarity": 0.8399,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5645,
+      "mean_seed_pmi": 6.2257
+    },
+    {
+      "word": "iran_backed",
+      "display": "iran backed",
+      "similarity": 0.8365,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5914,
+      "mean_seed_pmi": 4.7645
+    },
+    {
+      "word": "ukrainian_drone",
+      "display": "ukrainian drone",
+      "similarity": 0.8282,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5693,
+      "mean_seed_pmi": 3.9306
+    },
+    {
+      "word": "fossil_generation",
+      "display": "fossil generation",
+      "similarity": 0.827,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5726,
+      "mean_seed_pmi": 2.3784
+    },
+    {
+      "word": "hezbollah_leader",
+      "display": "hezbollah leader",
+      "similarity": 0.8261,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5698,
+      "mean_seed_pmi": 4.3546
+    },
+    {
+      "word": "hassan_nasrallah",
+      "display": "hassan nasrallah",
+      "similarity": 0.818,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5557,
+      "mean_seed_pmi": 4.3546
+    },
+    {
+      "word": "tanura",
+      "display": "tanura",
+      "similarity": 0.8172,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5089,
+      "mean_seed_pmi": 5.8257
+    },
+    {
+      "word": "drone_strikes",
+      "display": "drone strikes",
+      "similarity": 0.8152,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5619,
+      "mean_seed_pmi": 4.1012
+    },
+    {
+      "word": "drones_fundamentally",
+      "display": "drones fundamentally",
+      "similarity": 0.812,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5669,
+      "mean_seed_pmi": 2.8363
+    },
+    {
+      "word": "militants",
+      "display": "militants",
+      "similarity": 0.8095,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5944,
+      "mean_seed_pmi": 4.9355
+    },
+    {
+      "word": "transformed_modern",
+      "display": "transformed modern",
+      "similarity": 0.8088,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5734,
+      "mean_seed_pmi": 2.8363
+    },
+    {
+      "word": "qassem",
+      "display": "qassem",
+      "similarity": 0.8071,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5526,
+      "mean_seed_pmi": 5.565
+    },
+    {
+      "word": "rebels",
+      "display": "rebels",
+      "similarity": 0.8053,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5583,
+      "mean_seed_pmi": 4.3705
+    },
+    {
+      "word": "renewables_displace",
+      "display": "renewables displace",
+      "similarity": 0.8052,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5591,
+      "mean_seed_pmi": 2.3784
+    },
+    {
+      "word": "incursion",
+      "display": "incursion",
+      "similarity": 0.8038,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.6014,
+      "mean_seed_pmi": 4.4038
+    },
+    {
+      "word": "airstrikes",
+      "display": "airstrikes",
+      "similarity": 0.8018,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5928,
+      "mean_seed_pmi": 4.1148
+    },
+    {
+      "word": "militias",
+      "display": "militias",
+      "similarity": 0.7982,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5903,
+      "mean_seed_pmi": 4.9712
+    },
+    {
+      "word": "drone_attack",
+      "display": "drone attack",
+      "similarity": 0.7964,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5753,
+      "mean_seed_pmi": 4.4654
+    },
+    {
+      "word": "yemeni",
+      "display": "yemeni",
+      "similarity": 0.7921,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5654,
+      "mean_seed_pmi": 5.3126
+    },
+    {
+      "word": "hormuz_crisis",
+      "display": "hormuz crisis",
+      "similarity": 0.7915,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5275,
+      "mean_seed_pmi": 4.2041
+    },
+    {
+      "word": "ayatollah_ali",
+      "display": "ayatollah ali",
+      "similarity": 0.7891,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5636,
+      "mean_seed_pmi": 4.6934
+    },
+    {
+      "word": "intercepted",
+      "display": "intercepted",
+      "similarity": 0.7854,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5699,
+      "mean_seed_pmi": 4.6679
+    },
+    {
+      "word": "against_afghanistan",
+      "display": "against afghanistan",
+      "similarity": 0.7831,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5487,
+      "mean_seed_pmi": 3.1038
+    },
+    {
+      "word": "targeting_russian",
+      "display": "targeting russian",
+      "similarity": 0.7795,
+      "similar_to": "drone strike",
+      "mean_seed_cosine": 0.5857,
+      "mean_seed_pmi": 3.527
+    },
+    {
+      "word": "iranian_attack",
+      "display": "iranian attack",
+      "similarity": 0.7664,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5772,
+      "mean_seed_pmi": 3.7443
+    },
+    {
+      "word": "bombing",
+      "display": "bombing",
+      "similarity": 0.7632,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5864,
+      "mean_seed_pmi": 3.7952
+    },
+    {
+      "word": "ayatollah",
+      "display": "ayatollah",
+      "similarity": 0.7616,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5948,
+      "mean_seed_pmi": 4.3778
+    },
+    {
+      "word": "mobilized",
+      "display": "mobilized",
+      "similarity": 0.7614,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5823,
+      "mean_seed_pmi": 4.8371
+    },
+    {
+      "word": "tensions_escalate",
+      "display": "tensions escalate",
+      "similarity": 0.7597,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5569,
+      "mean_seed_pmi": 3.177
+    },
+    {
+      "word": "shiite",
+      "display": "shiite",
+      "similarity": 0.7584,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5679,
+      "mean_seed_pmi": 4.4509
+    },
+    {
+      "word": "hamas_israel",
+      "display": "hamas israel",
+      "similarity": 0.7535,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5555,
+      "mean_seed_pmi": 4.0504
+    },
+    {
+      "word": "supreme_leader",
+      "display": "supreme leader",
+      "similarity": 0.7505,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.545,
+      "mean_seed_pmi": 3.6314
+    },
+    {
+      "word": "perpetrated",
+      "display": "perpetrated",
+      "similarity": 0.7487,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5466,
+      "mean_seed_pmi": 3.8563
+    },
+    {
+      "word": "waterway",
+      "display": "waterway",
+      "similarity": 0.747,
+      "similar_to": "strait of hormuz",
+      "mean_seed_cosine": 0.5792,
+      "mean_seed_pmi": 4.6545
+    },
+    {
+      "word": "houthis",
+      "display": "houthis",
+      "similarity": 0.7457,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5911,
+      "mean_seed_pmi": 4.0757
+    },
+    {
+      "word": "wagner_group",
+      "display": "wagner group",
+      "similarity": 0.7443,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5668,
+      "mean_seed_pmi": 3.55
+    },
+    {
+      "word": "baghdad",
+      "display": "baghdad",
+      "similarity": 0.7443,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5351,
+      "mean_seed_pmi": 3.4874
+    },
+    {
+      "word": "israel_gaza",
+      "display": "israel gaza",
+      "similarity": 0.744,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.518,
+      "mean_seed_pmi": 4.3543
+    },
+    {
+      "word": "attacks_iran",
+      "display": "attacks iran",
+      "similarity": 0.7397,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5665,
+      "mean_seed_pmi": 3.8114
+    },
+    {
+      "word": "gaza_ceasefire",
+      "display": "gaza ceasefire",
+      "similarity": 0.7388,
+      "similar_to": "airstrike",
+      "mean_seed_cosine": 0.5693,
+      "mean_seed_pmi": 3.5025
+    },
+    {
+      "word": "attacks_red",
+      "display": "attacks red",
+      "similarity": 0.7344,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5352,
+      "mean_seed_pmi": 6.0291
+    },
+    {
+      "word": "chokepoint",
+      "display": "chokepoint",
+      "similarity": 0.7318,
+      "similar_to": "strait of hormuz",
+      "mean_seed_cosine": 0.5551,
+      "mean_seed_pmi": 4.1416
+    },
+    {
+      "word": "missiles",
+      "display": "missiles",
+      "similarity": 0.7265,
+      "similar_to": "missile",
+      "mean_seed_cosine": 0.5357,
+      "mean_seed_pmi": 3.8337
+    },
+    {
+      "word": "military_action",
+      "display": "military action",
+      "similarity": 0.7249,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.5767,
+      "mean_seed_pmi": 3.7367
+    },
+    {
+      "word": "hostilities",
+      "display": "hostilities",
+      "similarity": 0.7245,
+      "similar_to": "houthi",
+      "mean_seed_cosine": 0.5812,
+      "mean_seed_pmi": 4.0764
+    },
+    {
+      "word": "iranian",
+      "display": "iranian",
+      "similarity": 0.7239,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.5355,
+      "mean_seed_pmi": 3.52
+    },
+    {
+      "word": "missile_attack",
+      "display": "missile attack",
+      "similarity": 0.7185,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.566,
+      "mean_seed_pmi": 4.2149
+    },
+    {
+      "word": "conflict_between",
+      "display": "conflict between",
+      "similarity": 0.7161,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5345,
+      "mean_seed_pmi": 3.6233
+    },
+    {
+      "word": "tehran",
+      "display": "tehran",
+      "similarity": 0.7158,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.5135,
+      "mean_seed_pmi": 3.4408
+    },
+    {
+      "word": "rerouted",
+      "display": "rerouted",
+      "similarity": 0.7102,
+      "similar_to": "red sea",
+      "mean_seed_cosine": 0.5019,
+      "mean_seed_pmi": 4.283
+    },
+    {
+      "word": "hezbollah",
+      "display": "hezbollah",
+      "similarity": 0.7099,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.5586,
+      "mean_seed_pmi": 4.3327
+    },
+    {
+      "word": "israel_iran",
+      "display": "israel iran",
+      "similarity": 0.7015,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5408,
+      "mean_seed_pmi": 3.8941
+    },
+    {
+      "word": "attack_iran",
+      "display": "attack iran",
+      "similarity": 0.6981,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.553,
+      "mean_seed_pmi": 3.9694
+    },
+    {
+      "word": "strikes_iran",
+      "display": "strikes iran",
+      "similarity": 0.698,
+      "similar_to": "iran",
+      "mean_seed_cosine": 0.5032,
+      "mean_seed_pmi": 3.8924
+    },
+    {
+      "word": "houthi_attacks",
+      "display": "houthi attacks",
+      "similarity": 0.6831,
+      "similar_to": "red sea",
+      "mean_seed_cosine": 0.5699,
+      "mean_seed_pmi": 4.7456
+    },
+    {
+      "word": "invading",
+      "display": "invading",
+      "similarity": 0.6781,
+      "similar_to": "ukraine",
+      "mean_seed_cosine": 0.5773,
+      "mean_seed_pmi": 3.8253
+    },
+    {
+      "word": "against_russia",
+      "display": "against russia",
+      "similarity": 0.668,
+      "similar_to": "ukraine",
+      "mean_seed_cosine": 0.5395,
+      "mean_seed_pmi": 3.8155
+    },
+    {
+      "word": "iran_israel",
+      "display": "iran israel",
+      "similarity": 0.6669,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5712,
+      "mean_seed_pmi": 3.6018
+    },
+    {
+      "word": "between_russia",
+      "display": "between russia",
+      "similarity": 0.6648,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5483,
+      "mean_seed_pmi": 3.5697
+    },
+    {
+      "word": "ballistic_missiles",
+      "display": "ballistic missiles",
+      "similarity": 0.6634,
+      "similar_to": "missile",
+      "mean_seed_cosine": 0.5673,
+      "mean_seed_pmi": 3.5943
+    },
+    {
+      "word": "ballistic_missile",
+      "display": "ballistic missile",
+      "similarity": 0.6611,
+      "similar_to": "missile",
+      "mean_seed_cosine": 0.545,
+      "mean_seed_pmi": 4.002
+    },
+    {
+      "word": "confrontation",
+      "display": "confrontation",
+      "similarity": 0.6602,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5546,
+      "mean_seed_pmi": 3.0622
+    },
+    {
+      "word": "heightened_tensions",
+      "display": "heightened tensions",
+      "similarity": 0.6556,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5561,
+      "mean_seed_pmi": 4.4212
+    },
+    {
+      "word": "rising_tensions",
+      "display": "rising tensions",
+      "similarity": 0.6541,
+      "similar_to": "conflict",
+      "mean_seed_cosine": 0.5119,
+      "mean_seed_pmi": 3.1958
+    },
+    {
+      "word": "bunker",
+      "display": "bunker",
+      "similarity": 0.6515,
+      "similar_to": "red sea",
+      "mean_seed_cosine": 0.5057,
+      "mean_seed_pmi": 4.5845
+    },
+    {
+      "word": "kharg_island",
+      "display": "kharg island",
+      "similarity": 0.6502,
+      "similar_to": "strait of hormuz",
+      "mean_seed_cosine": 0.5469,
+      "mean_seed_pmi": 5.4637
+    }
+  ],
+  "lm_rise_direction": [
+    {
+      "word": "conflict_between",
+      "display": "conflict between",
+      "similarity": 0.7161,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.3181,
+      "w2v_polarity": -0.0241,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0989,
+      "vote_fall": 0.4011,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "israel_iran",
+      "display": "israel iran",
+      "similarity": 0.7015,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.4192,
+      "w2v_polarity": -0.0224,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.1272,
+      "vote_fall": 0.3728,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "israel_hamas",
+      "display": "israel hamas",
+      "similarity": 0.6988,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.4532,
+      "w2v_polarity": -0.0157,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.239,
+      "vote_fall": 0.261,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "make_landfall",
+      "display": "make landfall",
+      "similarity": 0.6717,
+      "similar_to": "hurricane",
+      "pmi_polarity": 0.1167,
+      "w2v_polarity": -0.0356,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "hostilities",
+      "display": "hostilities",
+      "similarity": 0.6709,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.2657,
+      "w2v_polarity": -0.025,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0838,
+      "vote_fall": 0.4162,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "francine",
+      "display": "francine",
+      "similarity": 0.6709,
+      "similar_to": "hurricane",
+      "pmi_polarity": 0.3839,
+      "w2v_polarity": -0.036,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "hurricane_helene",
+      "display": "hurricane helene",
+      "similarity": 0.6702,
+      "similar_to": "hurricane",
+      "pmi_polarity": 0.21,
+      "w2v_polarity": -0.03,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "iran_israel",
+      "display": "iran israel",
+      "similarity": 0.6669,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.2069,
+      "w2v_polarity": -0.0178,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.2028,
+      "vote_fall": 0.2972,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "heightened_tensions",
+      "display": "heightened tensions",
+      "similarity": 0.6549,
+      "similar_to": "oversupply",
+      "pmi_polarity": 0.2919,
+      "w2v_polarity": -0.039,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "storage_narrowing",
+      "display": "storage narrowing",
+      "similarity": 0.7526,
+      "similar_to": "glut",
+      "pmi_polarity": 0.1198,
+      "w2v_polarity": -0.0244,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0936,
+      "vote_fall": 0.4064,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "shrinking_floating",
+      "display": "shrinking floating",
+      "similarity": 0.7321,
+      "similar_to": "glut",
+      "pmi_polarity": 0.1198,
+      "w2v_polarity": -0.0289,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0175,
+      "vote_fall": 0.4825,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "supply_shock",
+      "display": "supply shock",
+      "similarity": 0.6762,
+      "similar_to": "glut",
+      "pmi_polarity": 0.4819,
+      "w2v_polarity": -0.023,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.1174,
+      "vote_fall": 0.3826,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "susceptibility",
+      "display": "susceptibility",
+      "similarity": 0.6649,
+      "similar_to": "oversupply",
+      "pmi_polarity": 0.4504,
+      "w2v_polarity": -0.0432,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "dip_opec",
+      "display": "dip opec",
+      "similarity": 0.6561,
+      "similar_to": "glut",
+      "pmi_polarity": 0.617,
+      "w2v_polarity": -0.03,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0006,
+      "vote_fall": 0.4994,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "hormuz_crisis",
+      "display": "hormuz crisis",
+      "similarity": 0.6508,
+      "similar_to": "glut",
+      "pmi_polarity": 0.775,
+      "w2v_polarity": -0.0299,
+      "vote_rise": 0.5,
+      "vote_neutral": 0.0015,
+      "vote_fall": 0.4985,
+      "agreement_score": 0.5
+    },
+    {
+      "word": "rising_tensions",
+      "display": "rising tensions",
+      "similarity": 0.6541,
+      "similar_to": "conflict",
+      "pmi_polarity": 0.0277,
+      "w2v_polarity": -0.0252,
+      "vote_rise": 0.4622,
+      "vote_neutral": 0.1175,
+      "vote_fall": 0.4203,
+      "agreement_score": 0.462192
+    }
+  ],
+  "lm_fall_direction": [
+    {
+      "word": "purse",
+      "display": "purse",
+      "similarity": 0.6763,
+      "similar_to": "tighten",
+      "pmi_polarity": -0.131,
+      "w2v_polarity": -0.0466,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "confrontation",
+      "display": "confrontation",
+      "similarity": 0.6602,
+      "similar_to": "conflict",
+      "pmi_polarity": -0.1875,
+      "w2v_polarity": -0.0474,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "deficit_narrowed",
+      "display": "deficit narrowed",
+      "similarity": 0.6848,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.4177,
+      "w2v_polarity": -0.0332,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "oversupply_concerns",
+      "display": "oversupply concerns",
+      "similarity": 0.6798,
+      "similar_to": "glut",
+      "pmi_polarity": -0.6409,
+      "w2v_polarity": -0.0382,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "tight_supply",
+      "display": "tight supply",
+      "similarity": 0.6782,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.3821,
+      "w2v_polarity": -0.0344,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "supply_side",
+      "display": "supply side",
+      "similarity": 0.6779,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.2029,
+      "w2v_polarity": -0.0466,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "supply_glut",
+      "display": "supply glut",
+      "similarity": 0.6737,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.8218,
+      "w2v_polarity": -0.0361,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "lumber_prices",
+      "display": "lumber prices",
+      "similarity": 0.6727,
+      "similar_to": "glut",
+      "pmi_polarity": -0.2354,
+      "w2v_polarity": -0.0523,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "august_versus",
+      "display": "august versus",
+      "similarity": 0.6697,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.3356,
+      "w2v_polarity": -0.0347,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "surplus_increased",
+      "display": "surplus increased",
+      "similarity": 0.6675,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.5451,
+      "w2v_polarity": -0.0351,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "amortise",
+      "display": "amortise",
+      "similarity": 0.6664,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.5481,
+      "w2v_polarity": -0.0474,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "relaxations",
+      "display": "relaxations",
+      "similarity": 0.6633,
+      "similar_to": "easing",
+      "pmi_polarity": -0.1848,
+      "w2v_polarity": -0.0351,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "unavoidable",
+      "display": "unavoidable",
+      "similarity": 0.663,
+      "similar_to": "recession",
+      "pmi_polarity": -0.1956,
+      "w2v_polarity": -0.049,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "stagnates",
+      "display": "stagnates",
+      "similarity": 0.6618,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.218,
+      "w2v_polarity": -0.0501,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "eia_confirms",
+      "display": "eia confirms",
+      "similarity": 0.6598,
+      "similar_to": "glut",
+      "pmi_polarity": -0.3508,
+      "w2v_polarity": -0.0434,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "couple_quarters",
+      "display": "couple quarters",
+      "similarity": 0.6592,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.394,
+      "w2v_polarity": -0.0463,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "nagging",
+      "display": "nagging",
+      "similarity": 0.6578,
+      "similar_to": "easing",
+      "pmi_polarity": -0.3411,
+      "w2v_polarity": -0.057,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "persisting",
+      "display": "persisting",
+      "similarity": 0.6542,
+      "similar_to": "glut",
+      "pmi_polarity": -0.391,
+      "w2v_polarity": -0.0433,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "iran_venezuela",
+      "display": "iran venezuela",
+      "similarity": 0.6525,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.4084,
+      "w2v_polarity": -0.0392,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "wild_card",
+      "display": "wild card",
+      "similarity": 0.651,
+      "similar_to": "oversupply",
+      "pmi_polarity": -0.3405,
+      "w2v_polarity": -0.0495,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0,
+      "vote_fall": 1.0,
+      "agreement_score": 1.0
+    },
+    {
+      "word": "ifo_business",
+      "display": "ifo business",
+      "similarity": 0.6514,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.8077,
+      "w2v_polarity": -0.0295,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0075,
+      "vote_fall": 0.9925,
+      "agreement_score": 0.992493
+    },
+    {
+      "word": "breathtaking",
+      "display": "breathtaking",
+      "similarity": 0.6505,
+      "similar_to": "rally",
+      "pmi_polarity": -0.525,
+      "w2v_polarity": -0.0262,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0631,
+      "vote_fall": 0.9369,
+      "agreement_score": 0.93686
+    },
+    {
+      "word": "deficit_eur",
+      "display": "deficit eur",
+      "similarity": 0.6866,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.6469,
+      "w2v_polarity": -0.0254,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0763,
+      "vote_fall": 0.9237,
+      "agreement_score": 0.923687
+    },
+    {
+      "word": "declines",
+      "display": "declines",
+      "similarity": 0.7205,
+      "similar_to": "decline",
+      "pmi_polarity": -0.0683,
+      "w2v_polarity": -0.0249,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0846,
+      "vote_fall": 0.9154,
+      "agreement_score": 0.915382
+    },
+    {
+      "word": "surplus_widened",
+      "display": "surplus widened",
+      "similarity": 0.6598,
+      "similar_to": "surplus",
+      "pmi_polarity": -1.6681,
+      "w2v_polarity": -0.0249,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0852,
+      "vote_fall": 0.9148,
+      "agreement_score": 0.914825
+    },
+    {
+      "word": "surplus_shrank",
+      "display": "surplus shrank",
+      "similarity": 0.6605,
+      "similar_to": "surplus",
+      "pmi_polarity": -1.3917,
+      "w2v_polarity": -0.0242,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.0965,
+      "vote_fall": 0.9035,
+      "agreement_score": 0.903496
+    },
+    {
+      "word": "surplus_eur",
+      "display": "surplus eur",
+      "similarity": 0.6815,
+      "similar_to": "surplus",
+      "pmi_polarity": -0.7856,
+      "w2v_polarity": -0.0217,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.1385,
+      "vote_fall": 0.8615,
+      "agreement_score": 0.861495
+    },
+    {
+      "word": "between_russia",
+      "display": "between russia",
+      "similarity": 0.6648,
+      "similar_to": "conflict",
+      "pmi_polarity": -0.0182,
+      "w2v_polarity": -0.0368,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.1959,
+      "vote_fall": 0.8041,
+      "agreement_score": 0.804057
+    },
+    {
+      "word": "opec_cuts",
+      "display": "opec cuts",
+      "similarity": 0.6553,
+      "similar_to": "glut",
+      "pmi_polarity": -0.2938,
+      "w2v_polarity": -0.017,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.2165,
+      "vote_fall": 0.7835,
+      "agreement_score": 0.783523
+    },
+    {
+      "word": "bullish",
+      "display": "bullish",
+      "similarity": 0.7323,
+      "similar_to": "bearish",
+      "pmi_polarity": -0.0544,
+      "w2v_polarity": -0.0109,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.3187,
+      "vote_fall": 0.6813,
+      "agreement_score": 0.681291
+    },
+    {
+      "word": "interruptions",
+      "display": "interruptions",
+      "similarity": 0.673,
+      "similar_to": "disruption",
+      "pmi_polarity": -0.0065,
+      "w2v_polarity": -0.0402,
+      "vote_rise": 0.0,
+      "vote_neutral": 0.3915,
+      "vote_fall": 0.6085,
+      "agreement_score": 0.608451
+    },
+    {
+      "word": "hurricane_milton",
+      "display": "hurricane milton",
+      "similarity": 0.6608,
+      "similar_to": "hurricane",
+      "pmi_polarity": 0.0211,
+      "w2v_polarity": -0.0304,
+      "vote_rise": 0.3511,
+      "vote_neutral": 0.1489,
+      "vote_fall": 0.5,
+      "agreement_score": 0.5
+    }
+  ]
+}
