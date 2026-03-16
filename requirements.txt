@@ -1,0 +1,33 @@
+# Core data
+pandas==2.3.3
+numpy==2.0.2
+pyarrow==21.0.0
+
+# HTTP / scraping
+requests==2.32.5
+beautifulsoup4==4.14.3
+lxml==6.0.2
+
+# ML
+scikit-learn==1.6.1
+hmmlearn==0.3.3
+scipy==1.13.1
+
+# Deep learning
+torch==2.8.0
+
+# NLP
+transformers==4.57.6
+
+# Data sources
+fredapi==0.5.2
+
+# Utilities
+python-dotenv==1.2.1
+matplotlib==3.9.4
+
+# Notebooks
+jupyter==1.1.1
+ipykernel==6.31.0
+nbformat==5.10.4
+nbconvert==7.17.0

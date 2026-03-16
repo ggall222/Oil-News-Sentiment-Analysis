@@ -63,7 +63,7 @@ DRIVER_TERMS = [
 
     # geopolitics
     "war", "conflict", "sanctions", "iran", "russia", "ukraine",
-    "middle east", "strait of hormuz"
+    "middle east", "hormuz", "kuwait", "venezuela", "libya", 
 ]
 
 TOPIC_MAP = {
